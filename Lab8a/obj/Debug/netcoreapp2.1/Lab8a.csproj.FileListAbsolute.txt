@@ -1,0 +1,11 @@
+/Users/mac/Projects/Lab8a/Lab8a/bin/Debug/netcoreapp2.1/Lab8a.deps.json
+/Users/mac/Projects/Lab8a/Lab8a/bin/Debug/netcoreapp2.1/Lab8a.runtimeconfig.json
+/Users/mac/Projects/Lab8a/Lab8a/bin/Debug/netcoreapp2.1/Lab8a.runtimeconfig.dev.json
+/Users/mac/Projects/Lab8a/Lab8a/bin/Debug/netcoreapp2.1/Lab8a.dll
+/Users/mac/Projects/Lab8a/Lab8a/bin/Debug/netcoreapp2.1/Lab8a.pdb
+/Users/mac/Projects/Lab8a/Lab8a/obj/Debug/netcoreapp2.1/Lab8a.csprojAssemblyReference.cache
+/Users/mac/Projects/Lab8a/Lab8a/obj/Debug/netcoreapp2.1/Lab8a.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/Lab8a/Lab8a/obj/Debug/netcoreapp2.1/Lab8a.AssemblyInfoInputs.cache
+/Users/mac/Projects/Lab8a/Lab8a/obj/Debug/netcoreapp2.1/Lab8a.AssemblyInfo.cs
+/Users/mac/Projects/Lab8a/Lab8a/obj/Debug/netcoreapp2.1/Lab8a.dll
+/Users/mac/Projects/Lab8a/Lab8a/obj/Debug/netcoreapp2.1/Lab8a.pdb
